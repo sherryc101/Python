@@ -1,5 +1,5 @@
 """
-Demonstration of numbers in Python
+1 - Demonstration of numbers in Python
 
 integer
 real numbers - but only with limited precision 15 digits
@@ -10,7 +10,6 @@ int() ---- to covert float to int (lower level of the integer
 float() -- to covert int to float
 
 """
-
 
 # Python has an integer type called int
 print("int")
